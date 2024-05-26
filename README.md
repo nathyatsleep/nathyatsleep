@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @nathyatsleep
-- 👀 I’m interested in make skins in pony town. 😍
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him. 🥶
-- ⚡ Fun fact: ...
-
-<!---
-nathyatsleep/nathyatsleep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hello, my name is nathaniel!
+i speak portuguese and i am from brazil, but i can speak english a little... i think.
+i like typology, it is all.
